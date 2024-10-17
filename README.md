@@ -3,7 +3,7 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## About 
-This is my 3rd project for college, I do these projects for a certain amount of money, but I wouldn’t call it an e-commerce project, my classmates just asked and I said that I’m ready to do it for money.
+This is my 2rd project for college, I do these projects for a certain amount of money, but I wouldn’t call it an e-commerce project, my classmates just asked and I said that I’m ready to do it for money.
 
 ## Get started
 
